@@ -808,29 +808,61 @@ Possible improvements include:
 
 # 📸 Screenshots
 
-```markdown
-### 🏠 Home Page
+You can add screenshots of your deployed application to make the GitHub repository more professional.
 
-"C:\Users\LENOVO\OneDrive\Pictures\Saved Pictures\home.png"
+Recommended folder:
 
-### 🔮 Loan Prediction
+```text
+screenshots/
+│
+├── home.png
+├── loan_prediction.png
+├── approved_result.png
+├── rejected_result.png
+├── shap_explanation.png
+├── eda_dashboard.png
+└── model_performance.png
+```
+
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+The LoanWise AI home page provides an overview of the application, dataset, Machine Learning model, accuracy, and major project features.
+
+![LoanWise AI Home Page](screenshots/home.png)
+
+---
+
+## 🔮 Loan Prediction
+
+Users can enter applicant, financial, credit, and property information to predict the loan approval outcome.
 
 ![Loan Prediction](screenshots/loan_prediction.png)
 
-### 🧠 SHAP Explainability
+---
 
-![SHAP Explanation](screenshots/shap_explanation.png)
+## 📋 Prediction Result
 
-### 📊 EDA Dashboard
+The application displays the loan prediction along with approval probability, rejection probability, and prediction assessment.
 
-![EDA Dashboard](screenshots/eda_dashboard.png)
-
-### 🤖 Model Performance
-
-![Model Performance](screenshots/model_performance.png)
-```
+![Prediction Result](screenshots/prediction_result.png)
 
 ---
+
+## 📊 EDA Dashboard
+
+The EDA dashboard provides visual insights into the loan dataset and important applicant characteristics.
+
+![EDA Dashboard](screenshots/EDA_dashboard.png)
+
+---
+
+## 🤖 Model Performance
+
+The Model Performance page displays information about the Machine Learning model and its test accuracy.
+
+![Model Performance](screenshots/model_performance.png)
 
 # 📈 Project Results
 
