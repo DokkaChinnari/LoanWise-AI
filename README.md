@@ -808,30 +808,10 @@ Possible improvements include:
 
 # 📸 Screenshots
 
-You can add screenshots of your deployed application to make the GitHub repository more professional.
-
-Recommended folder:
-
-```text
-screenshots/
-│
-├── home.png
-├── loan_prediction.png
-├── approved_result.png
-├── rejected_result.png
-├── shap_explanation.png
-├── eda_dashboard.png
-└── model_performance.png
-```
-
-After adding the screenshots, include them in the README:
-
 ```markdown
-## 📸 Screenshots
-
 ### 🏠 Home Page
 
-![LoanWise AI Home](screenshots/home.png)
+"C:\Users\LENOVO\OneDrive\Pictures\Saved Pictures\home.png"
 
 ### 🔮 Loan Prediction
 
