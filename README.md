@@ -808,24 +808,6 @@ Possible improvements include:
 
 # 📸 Screenshots
 
-You can add screenshots of your deployed application to make the GitHub repository more professional.
-
-Recommended folder:
-
-```text
-screenshots/
-│
-├── home.png
-├── loan_prediction.png
-├── approved_result.png
-├── rejected_result.png
-├── shap_explanation.png
-├── eda_dashboard.png
-└── model_performance.png
-```
-
-# 📸 Screenshots
-
 ## 🏠 Home Page
 
 The LoanWise AI home page provides an overview of the application, dataset, Machine Learning model, accuracy, and major project features.
