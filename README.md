@@ -896,26 +896,3 @@ https://github.com/DokkaChinnari
 If you find this project useful or interesting, please consider giving the repository a ⭐ on GitHub.
 
 ---
-
-# 🏷️ Keywords
-
-```text
-Python
-Machine Learning
-Artificial Intelligence
-Loan Approval Prediction
-Loan Prediction
-Classification
-Logistic Regression
-Scikit-learn
-Pandas
-NumPy
-SHAP
-Explainable AI
-Streamlit
-Data Science
-EDA
-Feature Engineering
-GitHub
-Streamlit Community Cloud
-```
