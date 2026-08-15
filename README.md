@@ -877,11 +877,13 @@ https://github.com/DokkaChinnari/LoanWise-AI
 
 ## Dokka Chinnari
 
-**B.Tech — Artificial Intelligence and Machine Learning**
+B.Tech - Artificial Intelligence & Machine Learning
 
-GitHub:
+Passionate about Data Analytics, Power BI, SQL, Python, and Machine Learning.
 
-https://github.com/DokkaChinnari
+GitHub: https://github.com/DokkaChinnari
+
+LinkedIn: https://www.linkedin.com/in/dokka-chinnari-aiml/
 
 ---
 
